@@ -1,0 +1,14 @@
+{
+  "name": "mimc2",
+  "version": "1.0.0",
+  "main": "generate_big_numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ethers": "^6.13.1"
+  }
+}
